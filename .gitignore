@@ -1,0 +1,11 @@
+/*
+
+!/Assets
+!/ProjectSettings
+!.gitignore
+!LICENSE
+!README.md
+
+.DS_Store
+*.DS_Store
+*~
